@@ -1,6 +1,6 @@
 <?php
 
-    $servidor = "localhost";
+    $servidor = "127.0.0.1";
     $bdname = "cadastro";
     $usuario = "root";
     $senha = "";
